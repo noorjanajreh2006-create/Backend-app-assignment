@@ -27,13 +27,14 @@ Relationships :
 - One User has many Orders / One Order belongs to one User
 
 ## Setup Instructions
-1- ( npm install ) to Install dependencies
-2- create Database using MySQL named ( backend_app_db )
-3- Run migrations ( npx sequelize-cli db:migrate )
+Setup : 
+- ( npm install ) to Install dependencies
+- create Database using MySQL named ( backend_app_db )
+- Run migrations ( npx sequelize-cli db:migrate )
 
 To run the Project :
-1- open terminal or  git bash
-2- write ( npm run dev )
+- open terminal or  git bash
+- write ( npm run dev )
 
 ### Available APIs
 
