@@ -22,6 +22,7 @@ This is a simple backend project built using Express and Sequelize with MySQL.
 Models :
 - User : ( id, name, email)
 - Order : (id, productName, amount, userId)
+
 Relationships :
 - One User has many Orders / One Order belongs to one User
 
